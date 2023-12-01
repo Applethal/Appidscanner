@@ -4,7 +4,7 @@ scans for the files and displays their names by extracting the information from 
 
 
 ## Dependencies:
-requests
+requests https://github.com/psf/requests
 
 ## How to use:
 
